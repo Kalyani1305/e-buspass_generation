@@ -1,1 +1,2 @@
 # e-buspass_generation
+This project helps the users to generate the bus pass without any physical strain. The portal allows the users to easily generate their bus pass and the administrator will be able to view the users who generated the pass. This also help the administration by reducing the paper-work, time and simple and fastest way ,simplest way. Web portal for e bus pass uses PHP and MYSQL databases. This is the project that keeps the records of the pass which is issued by the administrative. The user end is developed by HTML and CSS. 
